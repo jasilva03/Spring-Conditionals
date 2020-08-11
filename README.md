@@ -3,7 +3,7 @@ The idea about the @Conditional(s) annotations is that they allow/deny the bean 
 @ConditionalOnProperty
 @ConditionalOnResource
 @ConditionalOnClass
-@ConditionalOn
+@Conditional
 
 
 Youtube video with good explanation on @Conditional(s):
